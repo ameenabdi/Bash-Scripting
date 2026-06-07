@@ -15,5 +15,5 @@ Checks if a file exists and displays readable, writable, executable status.
 ## Challenge 4 - Backup Script
 Backs up all .txt files to a timestamped backup directory.
 
-## Bonus - System Monitor
+## Challenge 5 - System Monitor
 Captures CPU, memory, disk usage and top 5 processes. Saves to timestamped log file.
